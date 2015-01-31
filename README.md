@@ -2,7 +2,23 @@
 ToffeeSquares.js
 ================
 
-Get quickly started to develop a **Phaser** game using **TypeScript**.
+![ToffeeSquares logo](assets/toffee.png "TS.js logo")
+
+Get quickly started to develop an awesome *Phaser* game using *TypeScript*.
+
+
+Get started
+-----------
+
+First get the succulent ingredients.
+```bash
+npm install
+bower install
+```
+
+Next, made a tasteful game using *TypeScript*. All the `.ts` go to `lib/`
+
+At least, see your delicious game using `grunt` command-line.
 
 License
 -------

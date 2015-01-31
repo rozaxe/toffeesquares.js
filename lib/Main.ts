@@ -1,4 +1,4 @@
 
 window.onload = () => {
-	alert("Hello world!")
+	var game = new Toffee.Game()
 }
