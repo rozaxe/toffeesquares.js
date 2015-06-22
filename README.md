@@ -18,7 +18,7 @@ bower install
 
 Next, made a tasteful game using *TypeScript*. All the `.ts` go to `lib/`
 
-At least, see your delicious game using `grunt` command-line.
+Lastly, see your delicious game using `grunt` command-line.
 
 License
 -------
